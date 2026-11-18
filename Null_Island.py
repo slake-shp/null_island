@@ -188,7 +188,7 @@ folium.Marker(
         html="""
         <img
 
-        src="pirate_ship.png"
+        src="https://github.com/slake-shp/null_island/blob/main/images/pirate_ship.png?raw=true"
 
         onmouseover="
         document.getElementById('info-board').innerHTML=
@@ -232,7 +232,7 @@ folium.Marker(
         html="""
         <img
 
-        src="kraken.png"
+        src="https://github.com/slake-shp/null_island/blob/main/images/kraken.png?raw=true"
 
         onmouseover="
         document.getElementById('info-board').innerHTML=
@@ -429,7 +429,7 @@ pointer-events:none;
 transform:rotate(-5deg);
 ">
 
-<img src="compass_rose_transparent.png"
+<img src="https://github.com/slake-shp/null_island/blob/main/images/compass_rose_transparent.png?raw=true"
      style="
      width:170px;
 
