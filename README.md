@@ -1,2 +1,19 @@
-# null_island
-As day 18 of the 2026 30 Day Map Challenge I decided to make a treasure style map of Null Island
+# The null_island project
+
+## Overview of Project
+As day 18 of the 2026 30 Day Map Challenge I decided to make a treasure style map of Null Island. This was a simple mapping exercise for this challenge in order to use some of my skills. 
+
+![30 Day Map Challenge](https://github.com/slake-shp/null_island/blob/main/images/30daymapchallenge.jpg?raw=true)
+
+## Author
+I am the author of this particular map but did have some troubleshooting from various online resources when needed. 
+
+## Installation Notes
+Created using Python 3.15.2 within VSCode 1.146.0 on 17th November 2026.
+<br>
+Needed prerequisites: Folium and OS.
+
+```py
+import folium
+import os
+```
