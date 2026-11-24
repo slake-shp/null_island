@@ -7,6 +7,7 @@ As day 18 of the 2026 30 Day Map Challenge I decided to make a treasure style ma
 
 # Repository Structure
 
+```text
 null_island/
 ├── images
 │   ├── 30daymapchallenge.jpg
@@ -16,6 +17,7 @@ null_island/
 │   ├── placeholder.txt
 ├── Null_Island.py
 └── README.md
+```
 
 ## Installation Notes
 Created using Python 3.15.2 within VSCode 1.146.0 on 17th November 2026.
