@@ -19,8 +19,9 @@ null_island/
 │   ├── kraken2.png
 │   └── pirate_ship.png
 ├── maps
-│   ├── null_island_treasure_map.jpg
-│   ├── null_island_export
+│   ├── Null_Island_Treasure_Map.jpg
+│   ├── Null_Island_Treasure_Map.pdf
+│   ├── null_island_export.png
 │   └── Pirate_Null_Island_Map.html
 ├── scripts
 │   └── Null_Island.py
