@@ -42,7 +42,7 @@ import os
 ```
 
 ## Static Map Output
-ArcGIS Pro 3.7
+ArcGIS Pro 3.7.3
 <br>
 John Nelson 'Pirate Map Style' stylx file available at: https://esri-styles.maps.arcgis.com/home/item.html?id=58e11ce83ae64dcf87b084dd3b9bbcd2#overview
 <br>
