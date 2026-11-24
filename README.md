@@ -10,6 +10,7 @@ As day 18 of the 2026 30 Day Map Challenge I decided to make a treasure style ma
 ```text
 null_island/
 ├── images
+│   ├── 30daymapchallenge.jpg
 │   ├── compass_rose_transparent.png
 │   ├── kraken.png
 │   ├── kraken2.png
@@ -17,7 +18,7 @@ null_island/
 │   └── placeholder.txt
 ├── maps
 │   ├── null_island_treasure_map.jpg
-│   └── 30daymapchallenge.jpg
+│   └── Pirate_Null_Island_Map.html
 ├── scripts
 │   └── Null_Island.py
 └── README.md
