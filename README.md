@@ -5,8 +5,17 @@ As day 18 of the 2026 30 Day Map Challenge I decided to make a treasure style ma
 
 ![30 Day Map Challenge](https://github.com/slake-shp/null_island/blob/main/images/30daymapchallenge.jpg?raw=true)
 
-## Author
-I am the author of this particular map but did have some troubleshooting from various online resources when needed. 
+# Repository Structure
+
+null_island/
+├── images
+│   ├── 30daymapchallenge.jpg
+│   ├── compass_rose_transparent.png
+│   ├── kraken.png
+│   ├── pirate_ship.png
+│   ├── placeholder.txt
+├── Null_Island.py
+└── README.md
 
 ## Installation Notes
 Created using Python 3.15.2 within VSCode 1.146.0 on 17th November 2026.
@@ -17,3 +26,7 @@ Needed prerequisites: Folium and OS.
 import folium
 import os
 ```
+
+## Author
+Sian Lake
+Produced as a passion project for the 30 day map challenge 2026 - day 18 "Null".
