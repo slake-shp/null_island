@@ -14,7 +14,7 @@ null_island/
 │   ├── compass_rose_transparent.png
 │   ├── kraken.png
 │   ├── pirate_ship.png
-│   ├── placeholder.txt
+│   └── placeholder.txt
 ├── Null_Island.py
 └── README.md
 ```
